@@ -3,6 +3,8 @@
 This is unoffical ruby gem for processing property rental applications
 with corelogic saferent webservices
 
+This Gem is a work in progress
+
 ## Installation
 
 Add this line to your application's Gemfile:
